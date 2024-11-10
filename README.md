@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarcusCollins00
-- 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning on freecodecamp!
+- 👀 I’m interested in Full-Stack Development
+- 🌱 I’m currently learning on freecodecamp and am a computer science major!
 - 💞️ I’m looking to collaborate on simple projects at first
 - 📫 You can reach me on twitter.com/themarcusc
 
